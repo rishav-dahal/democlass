@@ -9,3 +9,4 @@ Izuna
 Sarada
 Fugaku
 Mikoto
+we are doing git botcamp
